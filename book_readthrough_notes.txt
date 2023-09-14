@@ -209,3 +209,9 @@ TFS Link
 --------
 
 https://dev.azure.com/grahampaasch/automate_your_network
+
+---------------
+Ansible Plugins
+---------------
+
+https://docs.ansible.com/ansible/2.7/plugins/plugins.html
