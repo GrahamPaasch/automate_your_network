@@ -3,7 +3,7 @@ POST-FORK
 This FORK of John's repo is only for storage of the book, notes, and finished examples of the hands-on exercises.
 
 Hands on practice for this YouTube series will occur using the TFS tools at this link:
-https://dev.azure.com/grahampaasch/automate_your_network
+https://dev.azure.com/grahampaasch/grahams_automated_network
 
 The YouTube series is here:
 https://www.youtube.com/playlist?list=PLYYsGDln_GC-XNkO4D0GvuIQIlqZVPMzy
